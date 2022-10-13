@@ -1,7 +1,55 @@
 fileFormatVersion: 2
 guid: 413986c4a668c374d8de72a47621b531
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5742017059485446288
+    second: Terrain (16x16) 1_0
+  - first:
+      213: 7720078550713291429
+    second: Terrain (16x16) 1_1
+  - first:
+      213: 3324791916300770321
+    second: Terrain (16x16) 1_2
+  - first:
+      213: -2670375232149954509
+    second: Terrain (16x16) 1_3
+  - first:
+      213: 2620999850736420264
+    second: Terrain (16x16) 1_4
+  - first:
+      213: 3960460497668127647
+    second: Terrain (16x16) 1_5
+  - first:
+      213: -2855676163392102926
+    second: Terrain (16x16) 1_6
+  - first:
+      213: 1959242234642493429
+    second: Terrain (16x16) 1_7
+  - first:
+      213: -5467818790455678805
+    second: Terrain (16x16) 1_8
+  - first:
+      213: -3772788190681173310
+    second: Terrain (16x16) 1_9
+  - first:
+      213: -7347219255181986903
+    second: Terrain (16x16) 1_10
+  - first:
+      213: 83881842087414782
+    second: Terrain (16x16) 1_11
+  - first:
+      213: -7419515092152464958
+    second: Terrain (16x16) 1_12
+  - first:
+      213: 7943464550610457251
+    second: Terrain (16x16) 1_13
+  - first:
+      213: -4540417752536426878
+    second: Terrain (16x16) 1_14
+  - first:
+      213: 1677969170204734917
+    second: Terrain (16x16) 1_15
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -92,7 +140,19 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Server
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -127,6 +187,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -145,8 +217,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6f0aae1313ed479d8dfa8d8f9c0110e
-      internalID: -929129873
+      spriteID: 07f032b28e14050b0800000000000000
+      internalID: -5742017059485446288
       vertices: []
       indices: 
       edges: []
@@ -166,8 +238,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a43d42ca974054c83a3545f457393d63
-      internalID: -547331879
+      spriteID: 5a2d0650a8a332b60800000000000000
+      internalID: 7720078550713291429
       vertices: []
       indices: 
       edges: []
@@ -187,8 +259,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57db6ed04a21b4c9694cc92058785970
-      internalID: 871020830
+      spriteID: 11c9233e1a8042e20800000000000000
+      internalID: 3324791916300770321
       vertices: []
       indices: 
       edges: []
@@ -208,8 +280,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bec8bc57b3b94385bee1879e1776a9f
-      internalID: -1576691456
+      spriteID: 33063b6efdbe0fad0800000000000000
+      internalID: -2670375232149954509
       vertices: []
       indices: 
       edges: []
@@ -229,8 +301,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75fe7b2c634014741a5b95d9fc065a64
-      internalID: -466901001
+      spriteID: 8a50f734a79af5420800000000000000
+      internalID: 2620999850736420264
       vertices: []
       indices: 
       edges: []
@@ -250,8 +322,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a8ef6f8dbdec41649b618ef0ca1c078
-      internalID: 1042464841
+      spriteID: f9bb976d6d166f630800000000000000
+      internalID: 3960460497668127647
       vertices: []
       indices: 
       edges: []
@@ -271,8 +343,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88b1e475ad5664eb4b2eea6d388e680f
-      internalID: -59187291
+      spriteID: 2fd967fc8a99e58d0800000000000000
+      internalID: -2855676163392102926
       vertices: []
       indices: 
       edges: []
@@ -292,8 +364,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 485d4794464fa499f94c87109bf28aef
-      internalID: -394272262
+      spriteID: 5ffeec09e60a03b10800000000000000
+      internalID: 1959242234642493429
       vertices: []
       indices: 
       edges: []
@@ -313,8 +385,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8c8b61594b4241d3a85d9f0973106fc
-      internalID: -688985723
+      spriteID: ba8eea2a7c76e14b0800000000000000
+      internalID: -5467818790455678805
       vertices: []
       indices: 
       edges: []
@@ -334,8 +406,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f90858fe366604d6fafc1b420e3a6ab9
-      internalID: -1165416845
+      spriteID: 2c2f8a1312d54abc0800000000000000
+      internalID: -3772788190681173310
       vertices: []
       indices: 
       edges: []
@@ -355,8 +427,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d85a0ff36a5f4ae39e5de3d3bcd3a9e
-      internalID: -1093109032
+      spriteID: 9a3b7ffb30f690a90800000000000000
+      internalID: -7347219255181986903
       vertices: []
       indices: 
       edges: []
@@ -376,8 +448,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 427b848eec28244138da931676e0038d
-      internalID: -849212550
+      spriteID: efbc9b847120a2100800000000000000
+      internalID: 83881842087414782
       vertices: []
       indices: 
       edges: []
@@ -397,8 +469,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 939fb247447c1467495c04f462d31fe6
-      internalID: 806667203
+      spriteID: 2c94a9e7556980990800000000000000
+      internalID: -7419515092152464958
       vertices: []
       indices: 
       edges: []
@@ -418,8 +490,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30632b56c10af4db5821c0a953f64533
-      internalID: 1350950151
+      spriteID: 3a25b092ceadc3e60800000000000000
+      internalID: 7943464550610457251
       vertices: []
       indices: 
       edges: []
@@ -439,8 +511,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a0aab1062a0a4aacb3525ce9376a7c7
-      internalID: -953238206
+      spriteID: 28650383c123df0c0800000000000000
+      internalID: -4540417752536426878
       vertices: []
       indices: 
       edges: []
@@ -456,21 +528,21 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Terrain (16x16) 1_9: -1165416845
-      Terrain (16x16) 1_14: -953238206
-      Terrain (16x16) 1_13: 1350950151
-      Terrain (16x16) 1_2: 871020830
-      Terrain (16x16) 1_4: -466901001
-      Terrain (16x16) 1_3: -1576691456
-      Terrain (16x16) 1_6: -59187291
-      Terrain (16x16) 1_10: -1093109032
-      Terrain (16x16) 1_12: 806667203
-      Terrain (16x16) 1_5: 1042464841
-      Terrain (16x16) 1_1: -547331879
-      Terrain (16x16) 1_7: -394272262
-      Terrain (16x16) 1_11: -849212550
-      Terrain (16x16) 1_0: -929129873
-      Terrain (16x16) 1_8: -688985723
+      Terrain (16x16) 1_9: -3772788190681173310
+      Terrain (16x16) 1_14: -4540417752536426878
+      Terrain (16x16) 1_13: 7943464550610457251
+      Terrain (16x16) 1_2: 3324791916300770321
+      Terrain (16x16) 1_4: 2620999850736420264
+      Terrain (16x16) 1_3: -2670375232149954509
+      Terrain (16x16) 1_6: -2855676163392102926
+      Terrain (16x16) 1_10: -7347219255181986903
+      Terrain (16x16) 1_12: -7419515092152464958
+      Terrain (16x16) 1_5: 3960460497668127647
+      Terrain (16x16) 1_1: 7720078550713291429
+      Terrain (16x16) 1_7: 1959242234642493429
+      Terrain (16x16) 1_11: 83881842087414782
+      Terrain (16x16) 1_0: -5742017059485446288
+      Terrain (16x16) 1_8: -5467818790455678805
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
