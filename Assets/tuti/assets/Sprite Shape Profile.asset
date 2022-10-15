@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af7181f404f1447c0a7a17b3070b952b, type: 3}
+  m_Name: Sprite Shape Profile
+  m_EditorClassIdentifier: 
+  m_Angles:
+  - m_Start: -63
+    m_End: 66
+    m_Order: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: 60cee3cfdbaf55b4ba2fddaf9c7b05de, type: 3}
+  - m_Start: 131
+    m_End: 231
+    m_Order: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: be01bf216c038fc4f8663577c9a06c6b, type: 3}
+  - m_Start: 66
+    m_End: 131
+    m_Order: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: 178937fb21e1ef047af7901a7e270bb1, type: 3}
+  - m_Start: -129
+    m_End: -63
+    m_Order: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: 178937fb21e1ef047af7901a7e270bb1, type: 3}
+  m_FillTexture: {fileID: 2800000, guid: 7144cc2b3d7c7e6479eb25d6871c8372, type: 3}
+  m_CornerSprites:
+  - m_CornerType: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: a40145043e2dba54da2628b3bb72afce, type: 3}
+  - m_CornerType: 1
+    m_Sprites:
+    - {fileID: 21300000, guid: e23de5b0f9099514ea467985d4509d56, type: 3}
+  - m_CornerType: 2
+    m_Sprites:
+    - {fileID: 21300000, guid: c556176097d43af48b04a8b7cb6ad3a5, type: 3}
+  - m_CornerType: 3
+    m_Sprites:
+    - {fileID: 21300000, guid: a0a9cfa9c00f3ba4888d2a9acb9f3d73, type: 3}
+  - m_CornerType: 4
+    m_Sprites:
+    - {fileID: 0}
+  - m_CornerType: 5
+    m_Sprites:
+    - {fileID: 0}
+  - m_CornerType: 6
+    m_Sprites:
+    - {fileID: 0}
+  - m_CornerType: 7
+    m_Sprites:
+    - {fileID: 0}
+  m_FillOffset: 0
+  m_UseSpriteBorders: 1
